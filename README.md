@@ -1,4 +1,4 @@
-# Project Title
+# Action Figure Configurator
 
 ## Getting Started
 
