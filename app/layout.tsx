@@ -6,8 +6,8 @@ import clsx from "clsx";
 const font = Recursive({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Project Title",
-  description: "Project Description",
+  title: "Action Figure Configurator",
+  description: "A project to configure a toy action figure",
 };
 
 export default function RootLayout({
