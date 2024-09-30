@@ -1,0 +1,9 @@
+🌟 Welcome to your project! 🌟
+
+🛠️  Your environment is fully setup with all required software installed.
+
+Next steps:
+
+  - Preview the app:
+    pnpm dev
+
